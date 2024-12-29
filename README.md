@@ -5,20 +5,25 @@ We used two Fashion Datasets for this project that included the Reviews of diffe
 Following is the list of approaches we tried in each step of the overall project implementation:
 
 1. Pre-processing:
+   
     Removing Nulls
     Removing Spaces
     Removing incomplete words  
-3. Embeddings
+2. Embeddings:
+   
     GloVe
     Vader with mini-LM
     HuggingFace transformers
-5. Evaluation
+3. Evaluation:
+   
     For supervised: accuracy, precision, recall, F1 score
     For unsupervised: Visually analyzing the results
-6. Supervised Classification
+4. Supervised Classification:
+   
     Bayes
     Deep Learning NN
-7. Unsupervised Classification
+5. Unsupervised Classification:
+    
     RAG based
     Similarity based
 
