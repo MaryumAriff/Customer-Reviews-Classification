@@ -1,0 +1,16 @@
+langchain-community
+langchain
+sentence-transformers
+faiss-cpu
+gradio
+vaderSentiment
+langdetect
+nltk
+tensorflow
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+seaborn
+requests
