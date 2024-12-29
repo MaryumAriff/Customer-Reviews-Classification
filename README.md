@@ -1,6 +1,6 @@
 # Customer-Reviews-Classification
 
-We used two Fashion Datasets for this project that included the Reviews of different customers at Stylo (a fashion company). The datasets, named ‘Google_Reviews’ and ‘NPS_Reviews’, are attached. We used both Supervised and Unsupervised approaches. The goal was to classify reviews as Actionable and Non-Actionable and then further classify the Actionable into different categories and identify the department that they should be forwarded to.
+We used two Fashion Datasets for this project that included the Reviews of different customers at Stylo (a fashion company). The datasets, named ‘Google_Reviews’ and ‘NPS_Reviews’, are attached. We used both Supervised and Unsupervised approaches. The goal was to classify reviews as Actionable and Non-Actionable and then further classify the Actionable into different categories and identify the department that they should be forwarded to. Our final selected approach was similarity-based classification (unsupervised) since it was simple and yet produced pretty good results.
 
 Following is the list of approaches we tried in each step of the overall project implementation:
 
