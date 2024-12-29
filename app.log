@@ -1,0 +1,34 @@
+Trying Supervised Approaches
+Preprocessing: Removing Nulls, Spaces, Incomplete Words
+Taking 80-20 train-test split
+Applying Bayes Classifier as our baseline
+Evaluating using confusion matrix, accuracy,recall,precision,F1
+Applying GloVe embeddings
+Using Focal Loss
+Using deep learning NN for classification - gives better results
+Evaluating using confusion matrix, accuracy,recall,precision,F1
+Trying Unsupervised Approaches
+Preprocessing: Removing Nulls, Spaces, Incomplete Words
+Used all_mini_L6_v2 for embeddings
+positives and negatives both analyzed
+Preprocessing: Null and extra spaces removed. Incomplete words are kept.
+putting incorrect words into neutral and leaving them out
+Gradio interface used
+Trying RAG for classfication
+Trying Supervised Approaches
+Preprocessing: Removing Nulls, Spaces, Incomplete Words
+Taking 80-20 train-test split
+Applying Bayes Classifier as our baseline
+Evaluating using confusion matrix, accuracy,recall,precision,F1
+Applying GloVe embeddings
+Using Focal Loss
+Using deep learning NN for classification - gives better results
+Evaluating using confusion matrix, accuracy,recall,precision,F1
+Trying Unsupervised Approaches
+Preprocessing: Removing Nulls, Spaces, Incomplete Words
+Used all_mini_L6_v2 for embeddings
+positives and negatives both analyzed
+Preprocessing: Null and extra spaces removed. Incomplete words are kept.
+putting incorrect words into neutral and leaving them out
+Gradio interface used
+Trying RAG for classfication
