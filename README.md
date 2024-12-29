@@ -10,7 +10,8 @@ Following is the list of approaches we tried in each step of the overall project
    
     Removing Spaces
    
-    Removing incomplete words  
+    Removing incomplete words
+   
 3. Embeddings:
    
     GloVe
@@ -18,16 +19,19 @@ Following is the list of approaches we tried in each step of the overall project
     Vader with mini-LM
    
     HuggingFace transformers
+   
 5. Evaluation:
    
     For supervised: accuracy, precision, recall, F1 score
    
     For unsupervised: Visually analyzing the results
+   
 7. Supervised Classification:
    
     Bayes
    
     Deep Learning NN
+   
 9. Unsupervised Classification:
     
     RAG based
