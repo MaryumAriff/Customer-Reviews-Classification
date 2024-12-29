@@ -7,25 +7,33 @@ Following is the list of approaches we tried in each step of the overall project
 1. Pre-processing:
    
     Removing Nulls
+   
     Removing Spaces
+   
     Removing incomplete words  
-2. Embeddings:
+3. Embeddings:
    
     GloVe
+   
     Vader with mini-LM
+   
     HuggingFace transformers
-3. Evaluation:
+5. Evaluation:
    
     For supervised: accuracy, precision, recall, F1 score
+   
     For unsupervised: Visually analyzing the results
-4. Supervised Classification:
+7. Supervised Classification:
    
     Bayes
+   
     Deep Learning NN
-5. Unsupervised Classification:
+9. Unsupervised Classification:
     
     RAG based
+   
     Similarity based
+   
 
 
 
